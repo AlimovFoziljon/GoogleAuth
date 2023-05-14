@@ -1,0 +1,24 @@
+.Home{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    height: 100vh;
+}
+.results{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: #6E6E73;
+}
+.signout{
+    padding: 5px 20px;
+    border: none;
+    background: none;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+    cursor: pointer;
+    color: #6E6E73;
+    font-size: 15px;
+}
